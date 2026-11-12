@@ -6,5 +6,5 @@ I have a multidisciplinary background in Accounting, Development Finance, and Da
 
 | Column 1 | Column 2 |
 |---|---|
+**| Row 1| Row 2 |**
 
-| Row 1| Row 2 |
